@@ -15,7 +15,7 @@ html {
   opacity: 1;
 }
 .home {
-  background-image: url(/images/road.jpg);
+  background-image: url(images/road.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
